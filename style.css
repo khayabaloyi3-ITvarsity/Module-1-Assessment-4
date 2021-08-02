@@ -1,0 +1,31 @@
+th {
+     font-weight: 1000;
+}
+table{
+     font-family : impact, fantasy;
+}
+table {
+    border-collapse: collapse;
+}
+
+table{text-align: center;
+}
+
+th {
+    font-weight     : 800;
+    background-color: dimgrey;
+    color           : #ffffff;
+}
+table{
+      font-family    : helvetica, sans-serif;
+      border-collapse: collapse;
+      border-width   : 9px;
+      border-style   : solid;
+      border-color   : dimgrey;
+}
+h2{
+    font-family: impact, fantasy;
+    font-size: 24px;
+    color: darkslategrey;
+    font-style: normal;
+}
